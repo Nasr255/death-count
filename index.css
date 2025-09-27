@@ -40,10 +40,6 @@ button {
     cursor: pointer;
 }
 
-button:hover {
-    width: 205px;
-}
-
 #increment-btn {
     background: darkred;
 }
@@ -57,3 +53,4 @@ button:hover {
     padding-bottom: 10px;
 
 }
+
